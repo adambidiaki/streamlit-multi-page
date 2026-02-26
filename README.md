@@ -1,4 +1,4 @@
-# 🧩 Multi-Page App with Streamlit
+# 🧩 Aplicativo Multi-Página com Streamlit
 
 Este projeto tem como objetivo demonstrar a construção de uma aplicação multi-página utilizando Streamlit, organizada de forma modular.
 
